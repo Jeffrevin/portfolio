@@ -1,0 +1,18 @@
+/* icon svg colors */
+svg {
+  background: white;
+  width: 45px;
+  margin-right: 0.5rem;
+}
+#discord {
+  fill: #7289da;
+}
+#reddit {
+  fill: #ff4500;
+}
+#gmail {
+  fill: #d14836;
+}
+#github {
+  fill: #181717;
+}
